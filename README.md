@@ -11,7 +11,7 @@
 - 😄 Pronouns: She
 - ⚡ Fun fact: I love to play around with numbers.
 
-### My Arsenal
+### My Top Skills
 
 - Microsoft Excel
 - SQL
